@@ -108,9 +108,3 @@ This dashboard helps:
 **Rahul Narkar**
 Aspiring Data Analyst | SQL | Power BI | Excel
 
-### Connect with Me
-
-* GitHub: Add your GitHub profile link
-* LinkedIn: Add your LinkedIn profile link
-
--
